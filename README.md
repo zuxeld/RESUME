@@ -6,7 +6,7 @@
 * препроцессоры CSS: SASS, SCSS  
 * tailwind  
 * JavaScript  
-* Vue.js(Vue Router, Vuex/Pinia)
+* Vue.js(Vue Router, Vuex/Pinia, Inertia.js)
 * git  
 * Figma
 
