@@ -4,7 +4,7 @@
 * HTML5  
 * CSS3  
 * препроцессоры CSS: SASS, SCSS  
-* tailwind  
+* TailWind  
 * JavaScript  
 * Vue.js(Vue Router, Vuex/Pinia, Inertia.js)
 * git  
@@ -13,7 +13,7 @@
 #### **навыки**:  
 * адаптивная верстка  
 * верстка по Figma  
-* верстка на tailwind  
+* верстка на TailWind  
 * создание фронтенд-части сайта на Vue  
 * всё вышеперечисленное одновременно  
 
