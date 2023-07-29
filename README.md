@@ -30,4 +30,4 @@
     - [https://github.com/zuxeld/VerstST2-1](https://github.com/zuxeld/VerstST2-1)  
 
 #### создание фронтенд-части сайта на Vue с tailwind по макету Figma:  
-- [https://github.com/alikmanukian/temp](https://github.com/alikmanukian/temp)
+- 
